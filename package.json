@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "loginpage",
+=======
+  "name": "authentification",
+>>>>>>> 6af1df7e60d053a52dc0e870cfe3bc8ef1b8beaf
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
@@ -15,6 +19,10 @@
     "ejs": "^3.1.10",
     "express": "^4.21.2",
     "jsonwebtoken": "^9.0.2",
+<<<<<<< HEAD
     "mongoose": "^8.12.2"
+=======
+    "mongoose": "^8.12.1"
+>>>>>>> 6af1df7e60d053a52dc0e870cfe3bc8ef1b8beaf
   }
 }
